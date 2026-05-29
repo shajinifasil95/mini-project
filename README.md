@@ -13,7 +13,7 @@ This Power BI project analyzes restaurant inspection data to identify food safet
 - KPI Cards
 - Risk Analysis
 - Violation Trends
-- Map Visualization
+- year wise inspection analysis
 - Interactive Filters
 
 ## Files Included
